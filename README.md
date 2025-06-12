@@ -1,4 +1,7 @@
-Hi there! 👋   
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cf2afd11-1dde-4667-8ac2-662066ad6fbb" alt="Profile GIF" width="300"/>
+</div>
+
 Welcome to my GitHub profile. I'm icekimchi, a passionate developer who loves building, learning, and sharing. Here you'll find a collection of my favorite projects, ranging from coding test solutions to web development and mobile apps.
 Let's code something cool together! ✨
 
