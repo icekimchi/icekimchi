@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cf2afd11-1dde-4667-8ac2-662066ad6fbb" alt="Profile GIF" width="300"/>
+  <img src="https://github.com/user-attachments/assets/db3c1247-f7ff-49bd-aed3-78515c98d4fb" alt="Profile GIF" width="300"/>
 </div>
 
 Welcome to my GitHub profile. I'm icekimchi, a passionate developer who loves building, learning, and sharing. Here you'll find a collection of my favorite projects, ranging from coding test solutions to web development and mobile apps.
 Let's code something cool together! ✨
 
-- **LinkedIn**: [linkedin.com/in/anna-park-73b26a355](htpts://linkedin.com/in/anna-park-73b26a355)  
+- **LinkedIn**: [linkedin.com/in/anna-park-73b26a355](https://linkedin.com/in/anna-park-73b26a355)  
 - **Email**: [annapark0828@gmail.com](annapark0828@gmail.com)
 
 ---
