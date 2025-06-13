@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/db3c1247-f7ff-49bd-aed3-78515c98d4fb" alt="Profile GIF" width="300"/>
+  <img src="https://github.com/user-attachments/assets/db3c1247-f7ff-49bd-aed3-78515c98d4fb" alt="Profile GIF" width="500"/>
 </div>
 
 Welcome to my GitHub profile. I'm icekimchi, a passionate developer who loves building, learning, and sharing. Here you'll find a collection of my favorite projects, ranging from coding test solutions to web development and mobile apps.
