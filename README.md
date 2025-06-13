@@ -5,7 +5,7 @@
 Welcome to my GitHub profile. I'm icekimchi, a passionate developer who loves building, learning, and sharing. Here you'll find a collection of my favorite projects, ranging from coding test solutions to web development and mobile apps.
 Let's code something cool together! ✨
 
-- **LinkedIn**: [linkedin.com/in/anna-park-73b26a355](linkedin.com/in/anna-park-73b26a355)  
+- **LinkedIn**: [linkedin.com/in/anna-park-73b26a355](htpts://linkedin.com/in/anna-park-73b26a355)  
 - **Email**: [annapark0828@gmail.com](annapark0828@gmail.com)
 
 ---
@@ -31,5 +31,5 @@ Let's code something cool together! ✨
 
 ---
 📫 Let's Connect!
-Feel free to connect with me on [linkedin](linkedin.com/in/anna-park-73b26a355).
+Feel free to connect with me on [linkedin](htpts://linkedin.com/in/anna-park-73b26a355).
 
